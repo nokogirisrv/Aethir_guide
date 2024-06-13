@@ -104,4 +104,3 @@ Just hover over the CLI for Linux and copy the right-click link address! The fol
 
 ## Server Error Occurs, Client Close. If Prompted?
 If you get an error like the image above Press `Ctrl+C` to stop. Go back here and restart the server, then the client, and the pending should start again.
-```
